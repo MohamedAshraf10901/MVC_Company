@@ -2,9 +2,9 @@ In our MVC-based employee management system, we've designed a robust solution to
 
 1.Model:
 
-  The Model layer represents the data and business logic. In our case, it includes the employee information, such as name, email, and role.
-  We store this data in a database (e.g., SQL Server, MySQL, or MongoDB). The model ensures data integrity and provides methods for CRUD (Create, Read, Update, Delete) operations.
-  When an employee signs up, their details are validated and stored securely.
+  -The Model layer represents the data and business logic. In our case, it includes the employee information, such as name, email, and role.
+  *We store this data in a database (e.g., SQL Server, MySQL, or MongoDB). The model ensures data integrity and provides methods for CRUD (Create, Read, Update, Delete) operations.
+  +When an employee signs up, their details are validated and stored securely.
 
 2.View:
 
@@ -14,8 +14,8 @@ In our MVC-based employee management system, we've designed a robust solution to
 
 3.Controller:
 
->  The Controller acts as an intermediary between the model and view. It handles user requests and orchestrates the system's behavior.
-> When an employee submits the account creation form, the controller receives the data.
+  The Controller acts as an intermediary between the model and view. It handles user requests and orchestrates the system's behavior.
+  When an employee submits the account creation form, the controller receives the data.
   It validates the input (e.g., checks if the email is unique) and interacts with the model to create a new employee account.
   For sign-in, the controller verifies the credentials against the stored data and grants access if valid.
 
