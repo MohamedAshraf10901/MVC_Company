@@ -14,8 +14,8 @@ In our MVC-based employee management system, we've designed a robust solution to
 
 3.Controller:
 
-  The Controller acts as an intermediary between the model and view. It handles user requests and orchestrates the system's behavior.
-  When an employee submits the account creation form, the controller receives the data.
+>  The Controller acts as an intermediary between the model and view. It handles user requests and orchestrates the system's behavior.
+> When an employee submits the account creation form, the controller receives the data.
   It validates the input (e.g., checks if the email is unique) and interacts with the model to create a new employee account.
   For sign-in, the controller verifies the credentials against the stored data and grants access if valid.
 
