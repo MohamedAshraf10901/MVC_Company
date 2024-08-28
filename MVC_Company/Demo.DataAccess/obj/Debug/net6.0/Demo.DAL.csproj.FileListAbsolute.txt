@@ -1,0 +1,14 @@
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\bin\Debug\net6.0\Demo.DAL.deps.json
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\bin\Debug\net6.0\Demo.DAL.runtimeconfig.json
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\bin\Debug\net6.0\Demo.DAL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\bin\Debug\net6.0\Demo.DAL.pdb
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\refint\Demo.DAL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.pdb
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\Demo.DAL.genruntimeconfig.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.DataAccess\obj\Debug\net6.0\ref\Demo.DAL.dll

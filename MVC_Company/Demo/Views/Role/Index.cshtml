@@ -1,0 +1,66 @@
+﻿@model IEnumerable< RoleViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<form asp-action="Index">
+    <div class="row">
+        <div class="col-8">
+            @if (ViewData["search"] is not null)
+            {
+                <input type="text" class="form-control" name="search" value="@ViewData["search"]" />
+
+            }
+            else
+            {
+
+                <input type="text" class="form-control" name="search" id="search" />
+            }
+        </div>
+        <div class="col-4">
+            <input type="submit" value="Search" class="btn btn-success" />
+
+
+        </div>
+
+    </div>
+
+</form>
+
+<a class="btn btn-primary w-25 m-5" asp-action="Create">Create</a>
+@if (Model.Count() == 0)
+{
+
+    <p class="alert alert-warning"> No Roles</p>
+}
+else
+{
+    <table class="table d-sm-table-cell table-hover w-100">
+        <thead>
+            <tr>
+                <th> @Html.DisplayNameFor(d => d.Id) </th>
+                <th> @Html.DisplayNameFor(d => d.Name) </th>
+                <th>Details</th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Reverse())
+            {
+                
+                <tr>
+                    <th> @item.Id</th>
+                    <th> @item.Name</th>
+
+                    <partial name="_ButtonPartialView" model="@item.Id" />
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+}

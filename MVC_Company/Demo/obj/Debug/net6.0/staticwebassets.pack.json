@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\css\\AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyle.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\15be4570-1243-4275-a4b3-7e3599628407lionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\15be4570-1243-4275-a4b3-7e3599628407lionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\358f1566-6456-4443-98eb-7b0c531b289fOIP.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\358f1566-6456-4443-98eb-7b0c531b289fOIP.jpg"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\42abc033-0a41-4e8e-95c4-e47dc351a44flionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\42abc033-0a41-4e8e-95c4-e47dc351a44flionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\aff6f32c-2f0d-44ff-80bf-b9858f83adb3Capture.PNG",
+      "PackagePath": "staticwebassets\\files\\images\\aff6f32c-2f0d-44ff-80bf-b9858f83adb3Capture.PNG"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\c644ec8b-9d36-43e2-ae72-9f111654acc7lionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\c644ec8b-9d36-43e2-ae72-9f111654acc7lionel-messi-barcelona-2020-21_rzdm4jsg4bq11f6auy6tszszj.jpg"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\files\\images\\e2ed190f-4142-43b3-a930-6da8ee53046eOIP.jpg",
+      "PackagePath": "staticwebassets\\files\\images\\e2ed190f-4142-43b3-a930-6da8ee53046eOIP.jpg"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "I:\\C#Assignments\\MVC\\MVC-Session06\\MVC_Demo_6\\Demo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Demo.PL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Demo.PL.props",
+      "PackagePath": "build\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Demo.PL.props",
+      "PackagePath": "buildMultiTargeting\\Demo.PL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Demo.PL.props",
+      "PackagePath": "buildTransitive\\Demo.PL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

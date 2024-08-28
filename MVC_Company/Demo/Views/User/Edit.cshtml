@@ -1,0 +1,27 @@
+﻿
+@model UserViewModel
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Edit</h1>
+<br />
+<br />
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="User" asp-action="Edit" method="post" enctype="multipart/form-data">
+            <partial name="PartialView/CreateEditPartialView" model="Model" />
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-controller="User" asp-action="Index" class="btn btn-light">Back To List</a>
+        </form>
+    </div>
+</div>
+
+@section Validation {
+    <partial name="_ValidationScriptsPartial" />
+
+}
+
+

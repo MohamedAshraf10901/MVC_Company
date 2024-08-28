@@ -1,0 +1,15 @@
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\bin\Debug\net6.0\Demo.BLL.deps.json
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\bin\Debug\net6.0\Demo.BLL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\bin\Debug\net6.0\Demo.BLL.pdb
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\bin\Debug\net6.0\Demo.DAL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\bin\Debug\net6.0\Demo.DAL.pdb
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.csproj.Up2Date
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\refint\Demo.BLL.dll
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\Demo.BLL.pdb
+I:\C#Assignments\MVC\MVC-Session06\MVC_Demo_6\Demo.Busiess\obj\Debug\net6.0\ref\Demo.BLL.dll
